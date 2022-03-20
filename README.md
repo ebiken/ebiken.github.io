@@ -1,5 +1,7 @@
 # About ebiken.github.io
 
+https://ebiken.github.io
+
 What's on this page?
 
 - Resume / Portfolio
